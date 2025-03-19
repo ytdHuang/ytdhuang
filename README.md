@@ -11,7 +11,7 @@
 
 <h3 align="left">🔭 Currently working on projects in <a href="https://qutip.org/" target="_blank">QuTiP.org</a> :</h3>
 
-| Repository | Stars |
+| Repository | Stat |
 |:----------:|:------|
 | [`QuantumToolbox.jl`](https://github.com/qutip/QuantumToolbox.jl) | [![](https://img.shields.io/github/stars/qutip/QuantumToolbox.jl)](https://github.com/qutip/QuantumToolbox.jl) |
 | [`HierarchicalEOM.jl`](https://github.com/qutip/HierarchicalEOM.jl) | [![](https://img.shields.io/github/stars/qutip/HierarchicalEOM.jl)](https://github.com/qutip/HierarchicalEOM.jl) |
