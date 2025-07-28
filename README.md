@@ -57,4 +57,7 @@
 -->
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ytdhuang&show_icons=true&locale=en&theme=tokyonight" alt="ytdhuang" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ytdhuang&show_icons=true&locale=en&theme=tokyonight" alt="ytdhuang" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ytdhuang&locale=en&theme=tokyonight" alt="ytdhuang" />
+</p>
