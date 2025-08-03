@@ -1,5 +1,5 @@
 <h1 align="center">Yi-Te Huang</h1>
-<h3 align="center">A physicist and quantum package developer from 🇹🇼 Taiwan 🇹🇼</h3>
+<h3 align="center">A physicist and quantum package developer from Taiwan 🇹🇼</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ytdhuang&label=Profile%20views&color=0e75b6&style=flat" alt="ytdhuang" /> </p>
@@ -58,6 +58,8 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ytdhuang&show_icons=true&locale=en&theme=tokyonight" alt="ytdhuang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ytdhuang&show_icons=true&show=reviews,prs_merged&locale=en&theme=tokyonight" alt="ytdhuang" />
+
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ytdhuang&locale=en&theme=tokyonight" alt="ytdhuang" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ytdhuang&locale=en&theme=tokyonight" alt="ytdhuang" />
 </p>
