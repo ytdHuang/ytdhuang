@@ -17,8 +17,8 @@
 
 <h3 align="left">📝 Research Articles:</h3>
 
-- Google Scholar [https://scholar.google.com/citations?user=lkAZtK8AAAAJ&hl=en-US](https://scholar.google.com/citations?user=lkAZtK8AAAAJ&hl=en-US)
-- ORCID <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD" width="14" height="14"/> <a href="https://orcid.org/0000-0002-2520-8348" aria-label="View ORCID record">0000-0002-2520-8348</a>
+<img src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="Google Scholar" width="14" height="14"/> Google Scholar [https://scholar.google.com/citations?user=lkAZtK8AAAAJ&hl=en-US](https://scholar.google.com/citations?user=lkAZtK8AAAAJ&hl=en-US)  
+<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD" width="14" height="14"/> ORCID <a href="https://orcid.org/0000-0002-2520-8348" aria-label="View ORCID record">0000-0002-2520-8348</a>
 
 <h3 align="left">Skills and Tools:</h3>
 <p align="left">
